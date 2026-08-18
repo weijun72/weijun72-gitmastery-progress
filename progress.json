@@ -32,5 +32,14 @@
     "completed_at": 1787047717.903346,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1787047934.74152,
+    "completed_at": 1787047936.068291,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
   }
 ]
